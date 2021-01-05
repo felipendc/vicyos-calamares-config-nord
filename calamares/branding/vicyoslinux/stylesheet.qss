@@ -60,13 +60,13 @@ QListWidget::item:alternate {
 }
 
 #view-button-back:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 #view-button-next:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 #view-button-cancel:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 
 #debugButton {
@@ -74,29 +74,29 @@ QListWidget::item:alternate {
 	color: #FFFFFF;
 }
 #debugButton:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 
 #aboutButton:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 #donateButton:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 #supportButton:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 #knownIssuesButton:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 #releaseNotesButton:hover {
-	color: #58B2D7;
+	color: #FFA000;
 }
 
 /* ########## TOOLTIP ########## */
 
 QToolTip {
-	background-color: #58B2D7;
+	background-color: #FFA000;
   font : 16px;
 	color: white;
 	padding: 3px;
@@ -120,7 +120,7 @@ QScrollBar:vertical {
 }
 
 QScrollBar::handle:vertical {
-     background: #58B2D7;
+     background: #FFA000;
      max-height: 25px;
 }
 
@@ -147,37 +147,37 @@ QListView {
 }
 
 QListView::item:alternate {
-	color: #58B2D7;
+	color: #FFA000;
 	color: white;
 }
 
 QListView::item:!alternate:selected:active {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
 QListView::item:selected:active {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
 QListView::item:selected:!active {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
 QListView::item:hover {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
 QListView#listLayout::item:!alternate:selected:active {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
 QListView#listVariant::item:!alternate:selected:active {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
@@ -313,7 +313,7 @@ QComboBox {
 }
 
 QComboBox::item:selected {
-	background: #58B2D7;
+	background: #FFA000;
 	color: white;
 }
 
@@ -343,7 +343,7 @@ QTreeView::item {
 }
 
 QTreeView::item:selected {
-	background: #58B2D7;
+	background: #FFA000;
 	font: bold;
 }
 
@@ -384,5 +384,5 @@ QProgressBar {
 }
 
 QProgressBar::chunk {
-	background-color: #58B2D7;
+	background-color: #FFA000;
 }
